@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zach-Snow
+- 👋 Hi, I’m Zakir
 - 👀 I’m interested in developing my skills in Java, C#, Unity and Unreal
 - 🌱 I’m currently learning Java, PostgreSQL, C#
 - 💞️ I’m looking to collaborate on projects that are inline with the expertise.
