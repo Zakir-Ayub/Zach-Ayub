@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zakir
 - 👀 I’m interested in developing my skills in Java, JavaScript, C#, Unity and Unreal
-- 🌱 I’m currently learning Java, PostgreSQL, C#
+- 🌱 I’m currently learning Java, Angular, Spring Framework, MySql, PostgreSQL, C#
 - 💞️ I’m looking to collaborate on projects that are in line with the expertise that I have and want to develop.
 - 📫 How to reach me: email: ayubzakirtushar@gmail.com
 
