@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Zach-snow)
 - 👋 Hi, I’m Zakir
 - 👀 I’m interested in developing my skills in Java, JavaScript, C#, Unity and Unreal
 - 🌱 I’m currently learning Web scraping using python also learning Java, Angular, Spring Framework, C# here and there.
@@ -5,6 +6,8 @@
 - 📫 How to reach me: email: ayubzakirtushar@gmail.com
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Zach-snow)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 <!---
