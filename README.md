@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Zach-snow)
 - 👋 Hi, I’m Zakir
-- 👀 I’m interested in developing my skills in Java, JavaScript, C#, Unity and Unreal
+- 👀 I’m interested in developing my skills in Pyhton, Java, JavaScript, C#, Unity and Unreal
 - 🌱 I’m currently learning Web scraping using python also learning Java, Angular, Spring Framework, C# here and there.
 - 💞️ I’m looking to collaborate on projects that are in line with the expertise that I have and want to develop.
 - 📫 How to reach me: email: ayubzakirtushar@gmail.com
