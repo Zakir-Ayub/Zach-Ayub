@@ -1,4 +1,4 @@
-![Hello there!](https://i.imgur.com/50NA7vr.gif)
+![Hello there!](moss.gif)
 
 ![](https://komarev.com/ghpvc/?username=Zach-snow)
 - 👋 Hi, I’m Zakir
