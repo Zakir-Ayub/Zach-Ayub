@@ -1,3 +1,5 @@
+![Hello there!](https://i.imgur.com/50NA7vr.gif)
+
 ![](https://komarev.com/ghpvc/?username=Zach-snow)
 - 👋 Hi, I’m Zakir
 - 👀 I’m interested in developing my skills in Pyhton, Java, JavaScript, C#, Unity and Unreal
