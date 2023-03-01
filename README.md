@@ -1,5 +1,5 @@
 ![Hello there!](moss.gif)
-- Me getting an A in my programming course in university while I fail in Business communication.
+Me getting an A in my programming course in university while I fail in Business communication.
 
 ![](https://komarev.com/ghpvc/?username=Zach-snow)
 - 👋 Hi, I’m Zakir
